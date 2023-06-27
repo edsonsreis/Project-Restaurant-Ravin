@@ -13,7 +13,7 @@ Desenvolvendo um sistema de gerenciamento de restaurante durante o módulo de Or
 1. Leitura da [Especifição Inicial](https://github.com/edsonsreis/Project-Restaurant-Ravin/blob/main/docs/especifica%C3%A7%C3%A3oInicial.md)
 2. Revisar e melhorar a Especificação - [Especificação Revisada](https://github.com/edsonsreis/Project-Restaurant-Ravin/blob/main/docs/especifica%C3%A7%C3%A3oRevisada.md)
 3. Diagramação baseada no passo:  [Versão Atual](https://github.com/edsonsreis/Project-Restaurant-Ravin/blob/main/diagrams/ravin.drawio.png).
-4. Implementação em Java do diagrama - Ver `/src/restaurante_2` para a versão mais atual do código
+4. Implementação em Java do diagrama - Ver `/src/Diagrama1-Professor/ravin` para a versão mais atual do código
 
 Esse processo será revisado até o ponto de aprovação pela turma, e então criaremos um Banco de Dados Relacional para interagir com as entidades.
 
