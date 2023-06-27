@@ -10,10 +10,10 @@ Desenvolvendo um sistema de gerenciamento de restaurante durante o módulo de Or
 
 ## Passos para realização desse projeto
 
-1. Leitura da [Especifição Inicial](https://github.com/tiagospeckart/restaurante/blob/main/docs/especifica%C3%A7%C3%A3oInicial.md)
-2. Revisar e melhorar a Especificação - [Especificação Revisada](https://github.com/tiagospeckart/restaurante/blob/main/docs/especifica%C3%A7%C3%A3oRevisada.md)
-3. Diagramação baseada no passo 2: [Versão 1](https://github.com/tiagospeckart/restaurante/blob/main/diagrams/1_diagramaMermaid.md). [Versão 2](https://github.com/tiagospeckart/restaurante/blob/main/diagrams/2_diagrama.jpg).
-5. Implementação em Java do diagrama - Ver `/src/restaurante_2` para a versão mais atual do código
+1. Leitura da [Especifição Inicial](https://github.com/edsonsreis/Project-Restaurant-Ravin/blob/main/docs/especifica%C3%A7%C3%A3oInicial.md)
+2. Revisar e melhorar a Especificação - [Especificação Revisada](https://github.com/edsonsreis/Project-Restaurant-Ravin/blob/main/docs/especifica%C3%A7%C3%A3oRevisada.md)
+3. Diagramação baseada no passo:  [Versão Atual](https://github.com/edsonsreis/Project-Restaurant-Ravin/blob/main/diagrams/ravin.drawio.png).
+4. Implementação em Java do diagrama - Ver `/src/restaurante_2` para a versão mais atual do código
 
 Esse processo será revisado até o ponto de aprovação pela turma, e então criaremos um Banco de Dados Relacional para interagir com as entidades.
 
@@ -24,8 +24,7 @@ Esse processo será revisado até o ponto de aprovação pela turma, e então cr
 - [Draw.io](https://app.diagrams.net/)
 - [PlantUML](https://plantuml.com/)
 
-## Diagrama 1
-![Diagrama Restaurante 1](https://github.com/tiagospeckart/restaurante/blob/main/diagrams/2_diagrama.jpg)
+## Diagrama 1 - União de várias ideias com o time
 
-## Diagrama 2
-![Diagrama Restaurante 2](https://github.com/tiagospeckart/restaurante/blob/main/diagrams/4_PlantUML_rendered.png)
+![Diagrama Restaurante 1](https://github.com/edsonsreis/Project-Restaurant-Ravin/blob/main/diagrams/ravin.drawio.png)
+
