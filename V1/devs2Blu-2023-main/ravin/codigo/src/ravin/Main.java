@@ -27,7 +27,51 @@ public class Main {
 
 	public static void main(String[] args) {
 		
-		JOptionPane.showMessageDialog(null, montarMenuPrincipal());
+		boolean executando = true;
+		int opcaoSelecionada = 0;
+		
+		while(executando) {
+			
+			opcaoSelecionada = Integer.parseInt(JOptionPane.showInputDialog(montarMenuPrincipal()));
+			
+			switch (opcaoSelecionada) {
+			
+			case 1:
+				// Chamar menu funcionario
+				
+				break;
+				
+			case 2:
+				// Chamar menu cliente
+				
+				break;
+				
+			case 3:
+				// Chamar menu produto
+				
+				break;
+				
+			case 4:
+				// Chamar menu cardapio
+				
+				break;
+				
+			case 5:
+				// Chamar menu mesa
+				
+				break;
+				
+			case 6:
+				// Chamar menu pedido
+				
+				break;
+				
+			case 7:
+				executando = false;
+				break;
+			}
+		}
+
 		
 		Pessoa pessoa = cadastrarPessoa();
 		Funcionario funcionario = cadastrarFuncionario();
