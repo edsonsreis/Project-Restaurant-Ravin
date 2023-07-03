@@ -4,7 +4,6 @@ public enum StatusMesa {
 	
 	RESERVADA,
 	OCUPADA,
-	LIBERADA,
 	DISPONIVEL
 
 }
